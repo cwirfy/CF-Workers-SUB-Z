@@ -12,12 +12,10 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://9ed51d7e-68e5-46d2-b430-043dc684cc66@18.136.162.247:49405?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=CdeL7T_hCIzrx0L6gstcHemHc_HJ6DQf3EGxGOkNAjI&sid=12820a7a&type=tcp&headerType=none#SG02_移动-联通_reality
-hysteria2://9ed51d7e-68e5-46d2-b430-043dc684cc66@18.136.162.247:27846?security=tls&alpn=h3&insecure=1&sni=www.bing.com#SG02_移动-联通-电信_hy2
-tuic://9ed51d7e-68e5-46d2-b430-043dc684cc66:9ed51d7e-68e5-46d2-b430-043dc684cc66@18.136.162.247:40791?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#SG02_电信_tuic
-vless://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:56521?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=2lgxTCF6WAiQplFdbkw-LjQ_JbdBFF-B8tKX1dHUxiU&sid=490ca5c9&type=tcp&headerType=none#KO01_移动-联通_reality
-hysteria2://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:31186?security=tls&alpn=h3&insecure=1&sni=www.bing.com#KO01_移动-联通-电信_hy2
-tuic://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5:798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:59569?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1&allowInsecure=1#KO01_电信_tuic
+vless://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:56521?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=2lgxTCF6WAiQplFdbkw-LjQ_JbdBFF-B8tKX1dHUxiU&sid=490ca5c9&type=tcp&headerType=none#1_KO_移动-联通_reality_z
+hysteria2://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:31186?security=tls&alpn=h3&insecure=1&sni=www.bing.com#1_KO_移动-联通_电信_hy2_z
+vless://21862dc0-519e-4e51-f263-5b8743f61c1a@3.37.225.74:10118?type=tcp&encryption=none&security=reality&sni=apple.com&pbk=H8sPutQ1Kl-qpacZXDBMiINGYqsrPMDIbFri5P00Xgw&sid=60c8c288&fp=chrome&flow=xtls-rprx-vision#4_KO_移动-联通_reality_z
+hysteria2://5b40a075-4b15-43d1-824d-e536824dff2e@3.37.225.74:22874?sni=3.37.225.74&alpn=h2%2Chttp%2F1.1%2Ch3#4_KO_移动-联通_电信_hy2_z
 `
 
 let urls = [];
