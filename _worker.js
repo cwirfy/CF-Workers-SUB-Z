@@ -16,6 +16,10 @@ vless://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:56521?encryption=none
 hysteria2://798c9ead-f8af-4b04-96c1-e79cc2ce2cd5@43.203.93.133:31186?security=tls&alpn=h3&insecure=1&sni=www.bing.com#1_KO_移动-联通_电信_hy2_z
 vless://21862dc0-519e-4e51-f263-5b8743f61c1a@3.37.225.74:10118?type=tcp&encryption=none&security=reality&sni=apple.com&pbk=H8sPutQ1Kl-qpacZXDBMiINGYqsrPMDIbFri5P00Xgw&sid=60c8c288&fp=chrome&flow=xtls-rprx-vision#4_KO_移动-联通_reality_z
 hysteria2://5b40a075-4b15-43d1-824d-e536824dff2e@3.37.225.74:22874?sni=3.37.225.74&alpn=h2%2Chttp%2F1.1%2Ch3#4_KO_移动-联通_电信_hy2_z
+hysteria2://1f08eb4e-f2ab-465c-8f39-9cd031d495bb@16.184.60.145:27333?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=02524780677dc6c94002f32ca6117434ca3e69b3daf5fdda663b2de3ad016795#KO1a2609-电信
+hysteria2://d76bb045-46dd-4c4a-bd5b-40603f35ecd7@3.39.134.41:21844?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=df8b84c64026df30495d42e17a711d156b73b73c834dfa5b1b1d5c381d9aba18#KO2a2609-电信
+hysteria2://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:10041?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=e28f6f83b94def0f79459da1ce113fb4fb9add1f616a77b4429ce72719e70f79#JP3a2609-电信
+hysteria2://c12c1703-f404-4e7f-9d47-1cd26487c4c9@184.193.77.25:38751?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=64b5d89950bc4469c253f2293d9c7aac72535d3ef3e9d19e53b4e99757f205e7#US5a2609-电信
 `
 
 let urls = [];
