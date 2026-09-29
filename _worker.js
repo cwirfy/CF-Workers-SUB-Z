@@ -15,6 +15,7 @@ let MainData = `
 hysteria2://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:10041?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=e28f6f83b94def0f79459da1ce113fb4fb9add1f616a77b4429ce72719e70f79#JP3a2609
 hysteria2://11f5fb60-d287-4af3-a035-9a2a443309d9@16.76.50.60:19821?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=1950c51f916618bca52a1253143caedf5d353b98c42d4586bf9b656f97da5b63#JP4a2609
 hysteria2://1f08eb4e-f2ab-465c-8f39-9cd031d495bb@16.184.60.145:27333?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=02524780677dc6c94002f32ca6117434ca3e69b3daf5fdda663b2de3ad016795#KO1a2609
+hysteria2://e439af52-7740-4bae-91e2-00da217f798a@13.192.201.5:32428?security=tls&alpn=h3&insecure=1&mport=&sni=www.bing.com#[电脑专用]3_JP_移动-联通_电信_hy2_n
 `
 
 let urls = [];
