@@ -14,7 +14,7 @@ let timestamp = 4102329600000;//2099-12-31
 let MainData = `
 anytls://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:50002?&sni=www.bing.com&allowInsecure=1&insecure=1#JP3a2609-anytls
 anytls://11f5fb60-d287-4af3-a035-9a2a443309d9@16.76.50.60:50002?&sni=www.bing.com&allowInsecure=1&insecure=1#JP4a2609-anytls
-hysteria2://1f08eb4e-f2ab-465c-8f39-9cd031d495bb@16.184.60.145:50001?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=02524780677dc6c94002f32ca6117434ca3e69b3daf5fdda663b2de3ad016795#KO1a2609
+hysteria2://1f08eb4e-f2ab-465c-8f39-9cd031d495bb@16.184.60.145:50001?security=tls&alpn=h3&insecure=1&allowInsecure=1&sni=www.bing.com&pinSHA256=02524780677dc6c94002f32ca6117434ca3e69b3daf5fdda663b2de3ad016795#KO1a2609
 anytls://1f08eb4e-f2ab-465c-8f39-9cd031d495bb@16.184.60.145:50002?&sni=www.bing.com&allowInsecure=1&insecure=1#KO1a2609-anytls
 `
 
