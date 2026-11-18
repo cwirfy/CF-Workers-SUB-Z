@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-hysteria2://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:50001?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=e28f6f83b94def0f79459da1ce113fb4fb9add1f616a77b4429ce72719e70f79#hy2-ip-172-26-13-67
+hysteria2://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:50001?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=e28f6f83b94def0f79459da1ce113fb4fb9add1f616a77b4429ce72719e70f79#JP3a2609
 anytls://61975a35-8679-4c6f-8a80-1d6a0c2a6ec4@52.195.88.67:50002?&sni=www.bing.com&allowInsecure=1&insecure=1#anytls-ip-172-26-13-67
 hysteria2://11f5fb60-d287-4af3-a035-9a2a443309d9@16.76.50.60:50001?security=tls&alpn=h3&insecure=0&allowInsecure=0&sni=www.bing.com&pinSHA256=1950c51f916618bca52a1253143caedf5d353b98c42d4586bf9b656f97da5b63#hy2-ip-172-26-26-116
 anytls://11f5fb60-d287-4af3-a035-9a2a443309d9@16.76.50.60:50002?&sni=www.bing.com&allowInsecure=1&insecure=1#anytls-ip-172-26-26-116
